@@ -80,3 +80,4 @@ C:\Users\maleki\source\repos\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net
 C:\Users\maleki\source\repos\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\MB.Application.pdb
 C:\Users\maleki\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\Article\Index.cshtml.g.cs
 C:\Users\maleki\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\Article\Create.cshtml.g.cs
+C:\Users\maleki\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\Article\Edit.cshtml.g.cs

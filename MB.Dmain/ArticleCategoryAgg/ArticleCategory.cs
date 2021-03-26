@@ -15,6 +15,11 @@ namespace MB.Domain.ArticleCategoryAgg
             IsDeleted = false;
             CreationDate=DateTime.Now;
         }
+
+        public void Rename(string title)
+        {
+            this.Title = title;
+        }
     } 
 }
  

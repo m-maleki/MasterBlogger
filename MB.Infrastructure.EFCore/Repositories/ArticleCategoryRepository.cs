@@ -22,9 +22,20 @@ namespace MB.Infrastructure.EFCore.Repositories
             return _context.ArticleCategories.OrderByDescending(x=> x.Id).ToList();
         }
 
+        public ArticleCategory Get(long Id)
+        {
+            return _context.ArticleCategories.FirstOrDefault(x => x.Id == Id);
+            
+        }
+
         public void Create(ArticleCategory entity)
         {
             _context.ArticleCategories.Add(entity);
+            Save();
+        }
+
+        public void Save()
+        {
             _context.SaveChanges();
         }
     }

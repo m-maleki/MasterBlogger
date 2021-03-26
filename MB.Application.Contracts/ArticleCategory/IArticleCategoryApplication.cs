@@ -6,6 +6,9 @@ namespace MB.Application.Contracts.ArticleCategory
     {
         List<ArticleCategoryViewModel> List();
         void Create(CreateArticleCategory command);
+        void Rename(RenameArticleCategory command);
+        RenameArticleCategory Get(long Id);
+
 
     }
 }

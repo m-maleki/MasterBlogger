@@ -21,6 +21,7 @@
                 <th>Title</th>
                 <th>ُStatus</th>
                 <th>Creation Date</th>
+                <th>Operations</th>
             </tr>
             </thead>
             <tbody>
@@ -43,6 +44,9 @@
                         }
                     </td>
                     <td>@articleCategory.CreationDate</td>
+                    <td>
+                        <a class="btn btn-warning" asp-page="./edit" asp-route-id="@articleCategory.Id">Rename</a>
+                    </td>
                 </tr>
             }
             </tbody>
