@@ -1,0 +1,9 @@
+C:\Users\maleki\source\repos\MasterBlogger\MB.Dmain\bin\Debug\netcoreapp3.1\MB.Domain.deps.json
+C:\Users\maleki\source\repos\MasterBlogger\MB.Dmain\bin\Debug\netcoreapp3.1\MB.Domain.dll
+C:\Users\maleki\source\repos\MasterBlogger\MB.Dmain\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+C:\Users\maleki\source\repos\MasterBlogger\MB.Dmain\obj\Debug\netcoreapp3.1\MB.Domain.AssemblyInfoInputs.cache
+C:\Users\maleki\source\repos\MasterBlogger\MB.Dmain\obj\Debug\netcoreapp3.1\MB.Domain.AssemblyInfo.cs
+C:\Users\maleki\source\repos\MasterBlogger\MB.Dmain\obj\Debug\netcoreapp3.1\MB.Domain.csproj.CoreCompileInputs.cache
+C:\Users\maleki\source\repos\MasterBlogger\MB.Dmain\obj\Debug\netcoreapp3.1\MB.Domain.dll
+C:\Users\maleki\source\repos\MasterBlogger\MB.Dmain\obj\Debug\netcoreapp3.1\MB.Domain.pdb
+C:\Users\maleki\source\repos\MasterBlogger\MB.Dmain\obj\Debug\netcoreapp3.1\MB.Domain.csprojAssemblyReference.cache

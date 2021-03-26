@@ -1,0 +1,12 @@
+C:\Users\maleki\source\repos\MasterBlogger\MB.Dmain\bin\Debug\net5.0\MB.Domain.deps.json
+C:\Users\maleki\source\repos\MasterBlogger\MB.Dmain\bin\Debug\net5.0\MB.Domain.dll
+C:\Users\maleki\source\repos\MasterBlogger\MB.Dmain\bin\Debug\net5.0\ref\MB.Domain.dll
+C:\Users\maleki\source\repos\MasterBlogger\MB.Dmain\bin\Debug\net5.0\MB.Domain.pdb
+C:\Users\maleki\source\repos\MasterBlogger\MB.Dmain\obj\Debug\net5.0\MB.Domain.csprojAssemblyReference.cache
+C:\Users\maleki\source\repos\MasterBlogger\MB.Dmain\obj\Debug\net5.0\MB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maleki\source\repos\MasterBlogger\MB.Dmain\obj\Debug\net5.0\MB.Domain.AssemblyInfoInputs.cache
+C:\Users\maleki\source\repos\MasterBlogger\MB.Dmain\obj\Debug\net5.0\MB.Domain.AssemblyInfo.cs
+C:\Users\maleki\source\repos\MasterBlogger\MB.Dmain\obj\Debug\net5.0\MB.Domain.csproj.CoreCompileInputs.cache
+C:\Users\maleki\source\repos\MasterBlogger\MB.Dmain\obj\Debug\net5.0\MB.Domain.dll
+C:\Users\maleki\source\repos\MasterBlogger\MB.Dmain\obj\Debug\net5.0\ref\MB.Domain.dll
+C:\Users\maleki\source\repos\MasterBlogger\MB.Dmain\obj\Debug\net5.0\MB.Domain.pdb

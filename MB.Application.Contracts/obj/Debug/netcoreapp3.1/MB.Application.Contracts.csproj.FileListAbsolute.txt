@@ -1,0 +1,9 @@
+C:\Users\maleki\source\repos\MasterBlogger\MB.Application.Contracts\bin\Debug\netcoreapp3.1\MB.Application.Contracts.deps.json
+C:\Users\maleki\source\repos\MasterBlogger\MB.Application.Contracts\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+C:\Users\maleki\source\repos\MasterBlogger\MB.Application.Contracts\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+C:\Users\maleki\source\repos\MasterBlogger\MB.Application.Contracts\obj\Debug\netcoreapp3.1\MB.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\maleki\source\repos\MasterBlogger\MB.Application.Contracts\obj\Debug\netcoreapp3.1\MB.Application.Contracts.AssemblyInfo.cs
+C:\Users\maleki\source\repos\MasterBlogger\MB.Application.Contracts\obj\Debug\netcoreapp3.1\MB.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\maleki\source\repos\MasterBlogger\MB.Application.Contracts\obj\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+C:\Users\maleki\source\repos\MasterBlogger\MB.Application.Contracts\obj\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+C:\Users\maleki\source\repos\MasterBlogger\MB.Application.Contracts\obj\Debug\netcoreapp3.1\MB.Application.Contracts.csprojAssemblyReference.cache
