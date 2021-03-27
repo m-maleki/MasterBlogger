@@ -22,5 +22,17 @@ namespace MB.Presentation.MVCCore.Pages.Article
         {
             ArticleCategory = _articleCategoryApplication.List();
         }
+
+
+        public RedirectToPageResult OnPostRemove(long id)
+        {
+            _articleCategoryApplication.Remove(id);
+            return RedirectToPage("./Index");
+        } 
+        public RedirectToPageResult OnPostActivate(long id)
+        {
+            _articleCategoryApplication.Activate(id);
+            return RedirectToPage("./Index");
+        }
     }
 }

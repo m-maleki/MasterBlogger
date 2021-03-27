@@ -46,14 +46,29 @@ namespace MB.Application
             _articleCategoryRepository.Save();
         }
 
-        public RenameArticleCategory Get(long Id)
+        public RenameArticleCategory Get(long id)
         {
-            var articleCategory = _articleCategoryRepository.Get(Id);
+            var articleCategory = _articleCategoryRepository.Get(id);
             return new RenameArticleCategory()
             {
                 Id = articleCategory.Id,
                 Title = articleCategory.Title
             };
+        }
+
+        public void Remove(long id)
+        {
+            var articleCategory = _articleCategoryRepository.Get(id);
+            articleCategory.Remove();
+            _articleCategoryRepository.Save();
+
+        }
+
+        public void Activate(long id)
+        {
+            var articleCategory = _articleCategoryRepository.Get(id);
+            articleCategory.Activate();
+            _articleCategoryRepository.Save();
         }
     }
 }
